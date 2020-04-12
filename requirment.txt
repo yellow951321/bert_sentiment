@@ -1,0 +1,5 @@
+transformers
+tqdm
+boto3
+requests
+regex
